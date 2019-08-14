@@ -1,0 +1,4 @@
+#In a seperate terminal: 
+echo 'Connection to Roboto established'
+
+asebamedulla "ser:device=/dev/ttyACM0"
