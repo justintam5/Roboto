@@ -6,6 +6,9 @@ Roboto(he's spanish) is meant to be a modular computer vision project made possi
 
 Current installments include a line/color following algorithm, and a CNN to approximate the corresponding regression analysis. The neural network has not been tested itself in real time on the robot, but did obtain accuracy up to about +-10 pixels. The network involved was regressional, simply to see how it could compare against the much more used 'discrete ouput' CNNs.
 
+![image](https://user-images.githubusercontent.com/29523390/223303890-8d0e2d70-a3bf-4ad2-89bc-2ea2fc0e9855.png)
+
+
 Cheers,
 
 Justin
